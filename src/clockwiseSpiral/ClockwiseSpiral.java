@@ -3,6 +3,7 @@ package clockwiseSpiral;
 import java.util.Scanner;
 
 public class ClockwiseSpiral {
+	
 	public static void main(String args[]) {
 		System.out.println("Enter The Value For N :");
 
